@@ -132,7 +132,7 @@ sudo ./ultimate_wifi_tool [flags]
 ---
 
 ### **Notes**
-- **Legal Warning**: Using this tool to attack networks without permission is illegal in most jurisdictions. Use it only for educational purposes or on networks you own/have consent to test.
+.
 - **Limitations**: Some features (e.g., WPS cracking, packet injection) are placeholders and require additional implementation for real-world use.
 - **Dependencies**: Ensure external tools (`aireplay-ng`, `hostapd`) are installed and compatible with your system.
 
