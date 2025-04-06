@@ -1,6 +1,6 @@
 ## a simple wifi tool
 
-The `UltimateWiFiTool` provided in the code is a comprehensive Wi-Fi analysis, penetration, and management tool written in Go. It offers a variety of features for scanning, cracking, jamming, and analyzing wireless networks. Below, I’ll explain its features, capabilities, and how to use it in English.
+The `UltimateWiFiTool` provided in the code is a comprehensive Wi-Fi analysis, penetration, and management tool written in Go. It offers a variety of features for scanning, cracking, jamming, and analyzing wireless networks. Below, I’ll explain its features, capabilities, and how to use it 
 
 ---
 
